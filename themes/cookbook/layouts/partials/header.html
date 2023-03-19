@@ -1,8 +1,8 @@
-<nav class="navbar is-primary" role="navigation" aria-label="main navigation">
+<nav class="navbar is-info" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
         <a class="navbar-brand">
             {{ with .Site.Params.logo }}
-                <img src="{{ .filename }}" width="{{ .width }}" height="{{ .height }}">
+                <a href="/"><img src="{{ .filename }}" width="{{ .width }}" height="{{ .height }}"></a>
             {{ else }}
                 <h1 style="font-size:300%"><em>{{ .Site.Params.navText.text }}</em></h1>
             {{ end }}
