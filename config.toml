@@ -1,9 +1,9 @@
-baseURL = "https://hcornelison.github.io/recipes"
+baseURL = "https://hcornelison.github.io/recipes/"
 languageCode = "en-us"
 title = "My Cookbook"
 theme = "cookbook"
 sectionPagesMenu = "main"
-publishDir = "docs"
+canonifyURLs = true
 
 [params.front]
 defaultAuthor = "Jared Swets" #Put in the default name of the author of the recipe
