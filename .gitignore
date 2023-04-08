@@ -2,8 +2,9 @@
 /public/
 /resources/
 /assets/
-hugo_stats.json
+/.vs/
 
-# Temporary lock file while building
+hugo_stats.json
 .hugo_build.lock
-/.vs/slnx.sqlite
+.wsuo
+.vsidx
