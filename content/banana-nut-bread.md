@@ -3,6 +3,7 @@ title: "Banana Nut Bread"
 date: 2023-04-08T09:13:37-05:00
 draft: false
 author: Heath Cornelison
+recipe_image: images/recipe-headers/banana-bread.png
 tags: ["breads"]
 tagline: "Very Simple Banana Nut Bread Recipe"
 prep_time: 15 #in minutes #can be BLANK
